@@ -2,8 +2,8 @@ import requests
 from auth_util import gen_sign_headers
 
 # 请注意替换APP_ID、APP_KEY
-APP_ID = '3035921089'
-APP_KEY = 'XCjChmlRyvPeEmMz'
+APP_ID = '**********'
+APP_KEY = '**************'
 DOMAIN = 'api-ai.vivo.com.cn'
 URI = '/embedding-model-api/predict/batch'
 METHOD = 'POST'
